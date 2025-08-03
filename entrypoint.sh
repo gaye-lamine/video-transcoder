@@ -1,5 +1,3 @@
-#!/bin/bash
-
 INPUT_FILE="/input/video.mp4"
 FILENAME=$(basename "$INPUT_FILE" .mp4)
 OUTPUT_DIR="/output"
